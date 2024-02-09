@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; align-self: center; justify-content: center; min-width: 350px;">
+        <ui:Button text="Продолжить" parse-escape-sequences="true" display-tooltip-when-elided="true" name="continue-button" />
+        <ui:Button text="В главное меню" parse-escape-sequences="true" display-tooltip-when-elided="true" name="to-main-menu-button" />
+        <ui:Button text="Сразу победить! :)" parse-escape-sequences="true" display-tooltip-when-elided="true" name="win-button" />
+    </ui:VisualElement>
+</ui:UXML>

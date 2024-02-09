@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/PlatformerPrototype/MainStyle.uss?fileID=7433441132597879392&amp;guid=14b706221da60d94198ab624de3ef6c2&amp;type=3#MainStyle" />
+    <ui:VisualElement name="container" class="m8t-container">
+        <ui:Label tabindex="-1" text="Platformer Prototype" parse-escape-sequences="true" display-tooltip-when-elided="true" class="header" style="margin-top: 26px; margin-bottom: 41px;" />
+        <ui:Button text="Начать Игру" parse-escape-sequences="true" display-tooltip-when-elided="true" name="start-game-button" style="width: 226px;" />
+        <ui:Button text="Настройки" parse-escape-sequences="true" display-tooltip-when-elided="true" name="settings-button" style="width: 225px;" />
+        <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/Pixel%20Adventure%201/Assets/Main%20Characters/Ninja%20Frog/Jump%20(32x32).png?fileID=2800000&amp;guid=4872bd1108769a946a6acb68dc156fcf&amp;type=3#Jump (32x32)&apos;); align-self: auto; justify-content: flex-start; align-items: auto; width: 100px; height: 100px; margin-top: 74px;" />
+    </ui:VisualElement>
+</ui:UXML>

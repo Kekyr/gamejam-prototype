@@ -1,0 +1,18 @@
+.header {
+    -unity-font: url('project://database/Assets/Fonts/futuris.ttf?fileID=12800000&guid=7f8344614e5312b43b86c5e91291bef2&type=3#futuris');
+    font-size: 41px;
+    color: rgb(26, 3, 7);
+}
+
+.unity-label {
+}
+
+.header {
+}
+
+.m8t-container {
+    max-width: 1024px;
+    min-width: 512px;
+    align-items: center;
+    align-self: center;
+}
